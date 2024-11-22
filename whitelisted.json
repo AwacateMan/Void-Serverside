@@ -7,5 +7,8 @@
     ],
     "UI_Ids": [
         114045511087365
+    ],
+    "Webhook_IDs":[
+        "https://discord.com/api/webhooks/1309569023008309348/1b_GFvpuwXslGQ0q_iRWDirozq3yHleVQwdX2AMPb7Zk3hHW6iycfBgFD1rwDW0X6c2s"
     ]
 }
